@@ -1,0 +1,13 @@
+{
+    "produweb_grid": {
+        "column": {
+            "slider_id": true,
+            "image_path": true,
+            "title": true,
+            "description": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
